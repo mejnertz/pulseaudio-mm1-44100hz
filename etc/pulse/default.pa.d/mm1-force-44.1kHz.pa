@@ -1,0 +1,1 @@
+load-module module-alsa-card name="usb-Bowers___Wilkins_MM-1_304-00" card_name="alsa_card.usb-Bowers___Wilkins_MM-1_304-00" rate=44100
